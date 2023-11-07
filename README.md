@@ -78,8 +78,7 @@ App Evaluation]
 
 ## Wireframes
 
-[[[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>](https://github.com/freedom12321/Milestone-1/issues/1#issue-1980407050)](https://github.com/freedom12321/Milestone-1/issues/1#issue-1980407050)
+![Simple Study Timer Wireframe 1](https://github.com/freedom12321/Milestone-1/issues/1#issue-1980407050)
 
 ### [BONUS] Digital Wireframes & Mockups
 
