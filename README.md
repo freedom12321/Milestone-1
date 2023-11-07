@@ -88,6 +88,24 @@ App Evaluation]
 
 [This section will be completed in Unit 9]
 
+## Sprint Planning
+
+### What are Sprints?
+Sprints are the core of Agile development, allowing for iterative and incremental development of the product. Each sprint is a time-boxed period where specific tasks are completed.
+
+### Sprint Cycle Components
+- **Sprint Planning**: Determine tasks and goals for the upcoming sprint.
+- **Daily Stand-Ups**: Quick daily meetings to discuss progress and obstacles.
+- **Sprint Review**: Demonstrate completed work to stakeholders for feedback.
+- **Sprint Retrospective**: Reflect on the sprint to improve future sprints.
+
+### Our Sprints
+- **Sprint 1**: Setup, basic UI, and start/pause functionality.
+- **Sprint 2**: Settings UI and timer duration adjustments.
+- **Sprint 3**: Notification implementation.
+- **Sprint 4**: (Optional) Statistics tracking and user accounts.
+
+
 ### Models
 
 [Add table of models]
