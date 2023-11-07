@@ -105,6 +105,58 @@ Sprints are the core of Agile development, allowing for iterative and incrementa
 - **Sprint 3**: Notification implementation.
 - **Sprint 4**: (Optional) Statistics tracking and user accounts.
 
+ Sprint Planning for Simple Study Timer App
+
+## Sprint Overview
+
+The development of the Simple Study Timer app will be divided into weekly sprints. Each sprint will focus on implementing a set of features and will conclude with a review and retrospective.
+
+## Sprint 1: Project Setup and Basic Timer
+
+**Duration**: 1 week
+
+**Goals**:
+- Initialize the project repository.
+- Set up the main project structure and development environment.
+- Create a basic timer with start, pause, and stop functionality.
+
+**Tasks**:
+- [ ] Set up version control with Git and GitHub.
+- [ ] Create the initial project files and directories.
+- [ ] Implement a countdown timer function in the app.
+
+## Sprint 2: Timer Settings and UI Implementation
+
+**Duration**: 1 week
+
+**Goals**:
+- Develop the settings screen where users can adjust the timer durations.
+- Design the main user interface for the Timer and Settings screens.
+
+**Tasks**:
+- [ ] Create UI elements for adjusting timer settings.
+- [ ] Implement the logic for saving and loading the user's settings.
+
+## Sprint 3: Notifications and User Alerts
+
+**Duration**: 1 week
+
+**Goals**:
+- Implement notifications to alert users when the timer ends or a break begins.
+
+**Tasks**:
+- [ ] Develop notification functionality to trigger at the end of a timer.
+- [ ] Test notification reliability across different devices.
+
+## Sprint 4: Optional Features
+
+**Duration**: 1 week
+
+**Goals**:
+- If the core app is functioning well, start working on optional features like statistics tracking and user accounts.
+
+
+
 
 ### Models
 
