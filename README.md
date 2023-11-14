@@ -1,8 +1,8 @@
-# Milestone-1
+# Milestone-1/2
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# Simple timer display
 
 ## Table of Contents
 
@@ -136,6 +136,15 @@ The development of the Simple Study Timer app will be divided into weekly sprint
 **Tasks**:
 - [ ] Create UI elements for adjusting timer settings.
 - [ ] Implement the logic for saving and loading the user's settings.
+
+small video review
+
+<div>
+    <a href="https://www.loom.com/share/c6e485efe63a4706ba105aa907e240fa"></a>
+    <a href="https://www.loom.com/share/c6e485efe63a4706ba105aa907e240fa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6e485efe63a4706ba105aa907e240fa-with-play.gif">
+    </a>
+  </div>
 
 ## Sprint 3: Notifications and User Alerts
 
